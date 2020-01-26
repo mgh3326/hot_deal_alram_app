@@ -1,5 +1,5 @@
 language: android
-jdk: oepnjdk11
+jdk: openjdk11
 dist: trusty
 android:
   components:
