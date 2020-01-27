@@ -22,3 +22,10 @@ cache:
     - $HOME/.gradle/caches/
     - $HOME/.gradle/wrapper/
     - $HOME/.android/build-cache
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
+# CI 실행 완료시 메일로 알람
+notifications:
+  email:
+    recipients:
+      - mgh3326@naver.com.com
