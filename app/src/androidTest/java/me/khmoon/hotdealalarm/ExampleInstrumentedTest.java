@@ -1,4 +1,4 @@
-package me.khmoon.hotdealalram;
+package me.khmoon.hotdealalarm;
 
 import android.content.Context;
 import androidx.test.internal.runner.junit4.AndroidJUnit4ClassRunner;
@@ -20,6 +20,6 @@ public class ExampleInstrumentedTest {
     // Context of the app under test.
     Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-    assertEquals("me.khmoon.hotdealalram", appContext.getPackageName());
+    assertEquals("me.khmoon.hotdealalarm", appContext.getPackageName());
   }
 }

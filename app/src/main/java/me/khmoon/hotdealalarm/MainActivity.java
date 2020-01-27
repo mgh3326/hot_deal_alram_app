@@ -1,4 +1,4 @@
-package me.khmoon.hotdealalram;
+package me.khmoon.hotdealalarm;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
