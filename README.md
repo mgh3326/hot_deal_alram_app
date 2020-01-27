@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/mgh3326/hot_deal_alram_app.svg?branch=master)](https://travis-ci.com/mgh3326/hot_deal_alram_app)
